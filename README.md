@@ -1,7 +1,7 @@
 # Heart Stroke Prediction using Data Science with Python:
 
 # Introduction:
-
+  * **Problem Statement:** Predict wheather a patient has risk of getting a heart stroke using the stroke dataset that is publicly availabe on Kaggle.
 # About Dataset:
 * ## Context:
   According to the World Health Organization (WHO) heart stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
