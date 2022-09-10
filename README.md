@@ -22,7 +22,7 @@ This dataset is used to predict whether a patient is likely to get stroke based 
   
   **Note: "Unknown" in smoking_status means that the information is unavailable for this patient**
  * Source:
-The dataset is publically available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has the chance of future heart stroke.The dataset provides the patients’ information. It includes over 4,000 records and 12 attributes. Each attribute is a potential risk factor. There are both demographic, behavioral and medical risk factors.
+The dataset is publicly available on the Kaggle website, and it is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has the chance of future heart stroke.The dataset provides the patients’ information. It includes over 4,000 records and 12 attributes. Each attribute is a potential risk factor. There are both demographic, behavioral and medical risk factors.
 
 Target variable to predict:
 risk of getting heart stroke - (binary: “1”, means “Yes”, “0” means “No”)
