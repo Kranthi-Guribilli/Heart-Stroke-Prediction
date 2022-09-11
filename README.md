@@ -1,4 +1,16 @@
 # Heart Stroke Prediction using Data Science with Python:
+# Abstract:
+<p> The process of discovering or mining information from a huge volume of data is known as
+data mining technology. Today data mining has lots of application in every aspects of human life.
+Applications of data mining are wide and diverse. Among this health care is a major application of
+data mining. Medical field has get benefited more from data mining. Heart Stroke is the most
+dangerous life-threatening chronic disease globally. The objective of the work is to predicts the
+occurrence of heart stroke of a patient using algorithms like random forest algorithm. The dataset was accessed from
+Kaggle site. The dataset contains 5110 samples and 12 attributes are taken for features of the dataset.
+Then it was processed using python open access software in jupyter notebook. The datasets are
+classified and processed using machine learning algorithms like Random forest. The outcomes of the
+dataset are expressed in terms of accuracy, sensitivity and specificity in percentage. Using XGBClassifier, we obtained accuracy of 91% for prediction of heart stroke. The XGBClassifier has proven to be the most efficient algorithm for classification of heart stroke and therefore
+it is used in the proposed system.</p>
 
 # Introduction:
   * **Problem Statement:** Predict wheather a patient has risk of getting a heart stroke using the stroke dataset that is publicly availabe on Kaggle.
