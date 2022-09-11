@@ -38,3 +38,6 @@ The dataset is publicly available on the Kaggle website, and it is from an ongoi
 
 Target variable to predict:
 risk of getting heart stroke - (binary: “1”, means “Yes”, “0” means “No”)
+
+* [CODE:](https://github.com/Kranthi-Guribilli/Heart-Stroke-Prediction/blob/main/StrokePrediction.ipynb)
+Link to the ipynb file: 
